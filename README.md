@@ -1,5 +1,7 @@
 # 使用 GitHub Actions 的 OpenWrt 在线集成自动编译环境.
 
+## 12月4日更新: (!!自动更新代码!!) 直接把`merge-upstream.yml`放入`.github/workflows/`即可启动自动更新大雕代码.
+
 ## 自动定制固件, 自动生成配置文件, 无需上传配置, 依赖自动调整.
 
 ## 代码更新即自动编译, 兼容 coolsnowwolf/lede 以及 OpenWrt trunk
